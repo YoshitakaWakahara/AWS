@@ -14,6 +14,9 @@ https://classmethod.jp/cases/asahi-kasei/
 ## リマインド電話サービス
 
 ## DynamoDB
+https://pages.awscloud.com/rs/112-TZM-766/images/20170809_AWS-BlackBelt-DynamoDB_rev.pdf
+https://dev.classmethod.jp/articles/dynamodb-chottowakaru/
+##
 ## Lambda
 https://aws.amazon.com/jp/builders-flash/202003/awsgeek-serverless/?awsf.filter-name=*all
 ## SQS
